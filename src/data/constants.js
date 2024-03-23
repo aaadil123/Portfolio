@@ -60,7 +60,7 @@ export const projects = [
     id: 11,
     title: "Login and SignUp Page",
     description:
-      "login",
+      "Created secure login and signup page with React JS, ensuring user data privacy. Implemented validation, and seamless user experience.Demonstrated expertise in React JS and security principles.",
     image:
       login,
     tags: [
