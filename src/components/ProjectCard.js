@@ -10,7 +10,8 @@ const ProjectCard = ({project}) => {
     <div>
         {/* Card */}
         <div className='project-card w-[350px] h-[560px] bg-[#171721] cursor-pointer rounded-xl overflow-hidden transition-all px-[26px] py-[20px] flex flex-col gap-[14px]'>
-            <img className='w-[100%] h-[180px] rounded-xl object-cover shadow-lg ' src={project.image} />
+            <img src={project.image}
+            className='w-[100%] h-[180px] rounded-xl object-cover shadow-lg ' />
 
             {/* tags */}
             <div className='flex flex-wrap mx-[8px] my-[0px]'>
