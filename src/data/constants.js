@@ -1,3 +1,11 @@
+import login from "../images/login.png";
+import calculator from '../images/calculator.png';
+import clock from '../images/clock.png';
+import drum from '../images/drum.png';
+import clone from '../images/usabilityhub.png';
+import wave from '../images/wave.png';
+import weather from '../images/weather-app.png';
+
 export const skills = [
     {
         id: 1,
@@ -68,9 +76,10 @@ export const projects = [
       title: "WeatherApp",
       description:
         "Developed a weather application utilizing a free weather API to deliver accurate and real-time weather information to users. Implemented user-friendly features such as location-based weather updates.",
-      image:
-        "https://private-user-images.githubusercontent.com/92225498/303349527-3a04483a-1373-4ce7-a65e-a13fd2a60c6d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc0MDAwODIsIm5iZiI6MTcwNzM5OTc4MiwicGF0aCI6Ii85MjIyNTQ5OC8zMDMzNDk1MjctM2EwNDQ4M2EtMTM3My00Y2U3LWE2NWUtYTEzZmQyYTYwYzZkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA4VDEzNDMwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRkNjdjZDMzOTVlODc4YmVlZGQ2MDRhNWVkZGJmNGM3ZWFiNDgwODlhZjRhZTZhNmU1ZTBmNDI2YTIxMjhiYzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._s68MMff2j9I24gnbm-l_ZAWERlg4ejRndsFh3zfnpU",
-      tags: [
+      // image:
+      //   "https://private-user-images.githubusercontent.com/92225498/303349527-3a04483a-1373-4ce7-a65e-a13fd2a60c6d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc0MDAwODIsIm5iZiI6MTcwNzM5OTc4MiwicGF0aCI6Ii85MjIyNTQ5OC8zMDMzNDk1MjctM2EwNDQ4M2EtMTM3My00Y2U3LWE2NWUtYTEzZmQyYTYwYzZkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA4VDEzNDMwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRkNjdjZDMzOTVlODc4YmVlZGQ2MDRhNWVkZGJmNGM3ZWFiNDgwODlhZjRhZTZhNmU1ZTBmNDI2YTIxMjhiYzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._s68MMff2j9I24gnbm-l_ZAWERlg4ejRndsFh3zfnpU",
+      image:login,
+        tags: [
         "HTML",
         "Javascript",
         "Tailwind",
