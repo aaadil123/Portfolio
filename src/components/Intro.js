@@ -34,10 +34,11 @@ const Intro = () => {
             </span>
           </div>
   
-          <p className='text-xl font-normal text-[#5b636b] leading-8 mb-8'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero eius dolores provident ducimus expedita ipsam autem delectus omnis nihil facilis?</p>
+          <p className='text-xl font-normal text-[#5b636b] leading-8 mb-8'>A skilled and dedicated developer excels at crafting responsive, intuitive, and user-friendly web 
+          applications. </p>
 
           {/* Resume button */}
-          <a href="https://drive.google.com/file/d/1ZUwP8S3ldHF4y7UTELAS9TBSuvJ0sPr8/view?usp=sharing">
+          <a href="https://drive.google.com/file/d/1maNt1vDpmg7Z4e64lzS_NodjL4DjrMxH/view?usp=sharing">
             <button className='resume-btn'>
               Check Resume
               </button>

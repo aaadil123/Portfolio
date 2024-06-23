@@ -21,7 +21,9 @@ function Contact() {
                 {/* LinkedIn */}
                 <div className='flex justify-center items-center gap-1 cursor-pointer '>
                     <FaLinkedin />
-                    <p>https://www.linkedin.com/in/mohd-aadil-738b15213/</p>
+                    <a href='https://www.linkedin.com/in/mohd-aaadil'>
+                        <p>linkedin.com/in/mohd-aaadil/</p>
+                    </a>
                 </div>
             </div>
 
