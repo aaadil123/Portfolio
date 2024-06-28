@@ -34,6 +34,11 @@ export const skills = [
             name: 'Tailwind',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/640px-Tailwind_CSS_Logo.svg.png',
         },
+        {
+            id:'f',
+            name: 'React',
+            image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/640px-React_Logo_SVG.svg.png',
+        },
         ]
     },
     {
@@ -49,6 +54,22 @@ export const skills = [
                 id:'b',
                 name: "C++",
                 image:"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png",
+            },
+        ]
+    },
+    {
+        id: 3,
+        title: "Backend",
+        _skills: [
+            {
+                id:'a',
+                name: "JavaScript",
+            image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+            },
+            {
+                id:'b',
+                name: "Express",
+                image:"https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png",
             },
         ]
     }

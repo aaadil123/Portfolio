@@ -29,16 +29,6 @@ const ProjectCard = ({project}) => {
                 <h1 className='text-[28px] font-medium text-[#c3c4c5] mx-[6px] my-[8px] '>{project.title}</h1>
                 <p className='text-[16px] font-normal text-[#c3c4c5] mx-[8px] my-[6px] overflow-y-clip'>{project.description}</p>
             </div>
-
-
-            
-
-            {/* <div className='flex justify-center'>
-                <button className='text-[#c3c4c5] text-xl font-medium bg-[#7538de] rounded px-8 py-1 mt-5 hover:bg-[#5a26b4] transition-all'
-                onClick={clickHandler}>
-                    Live Demo
-                </button>
-            </div> */}
         </div>        
 
     </div>
