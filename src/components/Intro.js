@@ -4,7 +4,7 @@ import wave from '../images/wave.png';
 
 
 const Intro = () => {
-  const bio = ['Programmer', 'Frontend Developer']
+  const bio = ['Programmer', 'Developer']
   
   return (
     <div id='about' className='intro-container flex items-center bg-[#191924] pb-20'>
