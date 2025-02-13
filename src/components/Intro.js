@@ -38,7 +38,7 @@ const Intro = () => {
           applications. </p>
 
           {/* Resume button */}
-          <a href="https://drive.google.com/file/d/1maNt1vDpmg7Z4e64lzS_NodjL4DjrMxH/view?usp=sharing">
+          <a href="https://drive.google.com/file/d/1gjdwBfy6S0e_pwZarZoQmW2uGB6-YsAf/view?usp=sharing">
             <button className='resume-btn'>
               Check Resume
               </button>
